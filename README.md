@@ -8,7 +8,7 @@ Este projeto representa minha evolução de um código inicial para um padrão m
 
 ## 🎯 Objetivo do Projeto
 
-Consolidar conceitos essenciais exigidos em posições Java Júnior, como:
+Consolidar conceitos essenciais exigidos em posições **Java Júnior**, como:
 
 - Estruturação de um programa Java
 - Organização e legibilidade de código
@@ -26,7 +26,7 @@ Consolidar conceitos essenciais exigidos em posições Java Júnior, como:
   - ➕ Adição
   - ➖ Subtração
   - ✖ Multiplicação
-  - ➗ Divisão com validação de erro
+  - ➗ Divisão (com validação de erro)
 - Tratamento de divisão por zero
 - Mensagens claras para o usuário
 - Encerramento seguro da aplicação
@@ -59,8 +59,10 @@ Consolidar conceitos essenciais exigidos em posições Java Júnior, como:
 ```text
 PROJETO_JAVA
 └── Calculadora.java
--A classe Calculadora centraliza a lógica da aplicação
--Métodos específicos cuidam de cada responsabilidade:
+```
+
+- A classe `Calculadora` centraliza a lógica da aplicação
+- Métodos específicos cuidam de cada responsabilidade:
   - Exibição do menu
   - Leitura de dados
   - Execução das operações
@@ -68,32 +70,48 @@ PROJETO_JAVA
 
 ---
 
-▶️ Como Executar o Projeto
+## ▶️ Como Executar o Projeto
 
-1. Instale o Java JDK
-2. Clone este repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
-3. Acesse a pasta do projeto: cd PROJETO_JAVA
-4. Compile o código: javac Calculadora.java
-5. Execute a aplicação: java Calculadora
+1. Instale o **Java JDK**
+2. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+3. Acesse a pasta do projeto:
+   ```bash
+   cd PROJETO_JAVA
+   ```
+4. Compile o código:
+   ```bash
+   javac Calculadora.java
+   ```
+5. Execute a aplicação:
+   ```bash
+   java Calculadora
+   ```
 
 ---
 
-🔍 Evolução do Projeto
+## 🔍 Evolução do Projeto
 
 Este projeto passou por um processo de refatoração com foco em qualidade de código:
-- Código inicial com toda a lógica no main
+
+- Código inicial com toda a lógica concentrada no `main`
 - Refatoração para métodos específicos
 - Implementação de tratamento de exceções
 - Organização para facilitar manutenção e evolução
-Essa evolução demonstra aprendizado contínuo e preocupação com boas práticas.
+
+Essa evolução demonstra **aprendizado contínuo** e **preocupação com boas práticas**.
 
 ---
 
-👩‍💻 Autora
+## 👩‍💻 Autora
 
-Lisa Rios
-Desenvolvedora em formação com foco em Java, buscando oportunidade como Java Júnior.
+**Lisa Rios**  
+Desenvolvedora em formação com foco em **Java**, buscando oportunidade como **Java Júnior**.
 
 📌 Projeto desenvolvido para fins educacionais e demonstração de conhecimento técnico.
+
+---
 
 ⭐ Se você é recrutador(a) e chegou até aqui, fique à vontade para entrar em contato!
